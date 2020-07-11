@@ -25,3 +25,8 @@ npm install -g cordova ionic
 ```bash
 npm install
 ```
+
+3. Run with
+```bash
+ionic serve --port=8080
+```
