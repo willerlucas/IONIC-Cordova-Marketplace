@@ -2,7 +2,9 @@
 
 An application to show and "buy" itens from a realtime firebase datase.
 
-You will need to set your firebase configuration at the `src/firebaseConfig.ts` file
+This app uses the same database from my other repo [`React-firebase-Product-register`](https://github.com/willerlucas/react-firebase-Product-register)
+
+You will need to set your firebase configuration at the [`firebaseConfig.ts`](/src/firebaseConfig.ts) file.
 
 ## Project Status
 this app is a study on ionic, so there will be updates as the studies continue.
