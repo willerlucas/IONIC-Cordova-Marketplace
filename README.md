@@ -1,6 +1,7 @@
 ## Simple Martketplace APP
 
 An application to show and "buy" itens from a realtime firebase datase.
+
 You will need to set your firebase configuration at the `src/firebaseConfig.ts` file
 
 ## Project Status
